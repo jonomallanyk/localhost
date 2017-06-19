@@ -2,6 +2,9 @@
   "name": "localhost",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
   "license": "MIT",
   "dependencies": {
     "electron-prebuilt": "^1.4.13"
